@@ -186,4 +186,29 @@ h3{
     h1{
         font-size: 4.1vh;
     }
+   .home {
+        color: white;
+        font-size: 1.9vw;
+        text-decoration: none;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        align-self: center;
+    }
+    .home > a:hover{
+        color: rgb(255,229,0)
+    }
+    #Planets {
+        color: white;
+        font-size: 1.9vw;
+        text-decoration: none;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        align-self: center;
+        margin-left: 8vw;
+    }
+    #Planets > a:hover{
+        color:rgb(255,229,0);
+    }
 }
