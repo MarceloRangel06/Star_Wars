@@ -92,7 +92,7 @@ h3{
     margin-top: 35%;
 }
 
-@media only screen and (max-width:800px){
+@media only screen and (max-width:730px){
     #Logo{
         width: 26vw;
         margin-left: 2vw;
