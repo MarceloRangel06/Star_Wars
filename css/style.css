@@ -92,67 +92,7 @@ h3{
     margin-top: 35%;
 }
 
-@media screen and (max-width:900px){
-    #Logo{
-        width: 26vw;
-        margin-left: 2vw;
-        margin-right: 3vw;
-    }
-    footer{
-        margin-top: 0;
-        
-    }
-    h2{
-        font-size: 10vw;
-    }
-    li{
-        font-size: 6vw;
-    }
-    p{
-        font-size: 6vw;
-    }
-    header{
-        height: 12vh;
-    }
-    h3{
-        font-size: 5vw;
-    }
-    #Facebook{
-        width: 7vh;
-    }
-    #Instagram{
-        width: 7vh;
-    }
-    h1{
-        font-size: 2.8vh;
-    }
-   .home {
-        color: white;
-        font-size: 1.9vw;
-        text-decoration: none;
-        width: 100vw;
-        margin: 0;
-        padding: 0;
-        align-self: center;
-    }
-    .home > a:hover{
-        color: rgb(255,229,0)
-    }
-    #Planets {
-        color: white;
-        font-size: 1.9vw;
-        text-decoration: none;
-        width: 100vw;
-        margin: 0;
-        padding: 0;
-        align-self: center;
-        margin-left: 8vw;
-    }
-    #Planets > a:hover{
-        color:rgb(255,229,0);
-    }
-}
-@media screen and (max-width:730px){
+@media only screen and (max-width:800px){
     #Logo{
         width: 26vw;
         margin-left: 2vw;
